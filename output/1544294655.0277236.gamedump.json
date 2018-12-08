@@ -1,0 +1,1 @@
+{"match": {"event_name": "", "legnth": [], "GSM": [], "replay": [], "control_word": [], "alliance": [{"alliance": "red", "timestamp": "1544294651.7787485"}, {"alliance": "blue", "timestamp": "1544294651.7884886"}], "station": []}, "events": [{"name": "Robot enabled", "timestamp": "1544294651.7784708", "packet": 893665.0}]}
